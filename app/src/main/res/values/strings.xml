@@ -1,0 +1,124 @@
+
+    <resources>
+        <string name="app_name">30 Days Outdoors</string>
+
+        <!-- Day 1 -->
+        <string name="day1_title">Morning Sunbeam Trail Walk</string>
+        <string name="day1_desc">Start your morning with a 30-minute hike in the woods. Walk slowly, watch the sunbeams shine through the tall pine trees, and take deep breaths of fresh morning air.</string>
+
+        <!-- Day 2 -->
+        <string name="day2_title">Pitch Your Camp Tent</string>
+        <string name="day2_desc">Practice pitching your tent on flat, dry ground. Clear away small rocks and pinecones, stake the corners securely, and make your sleeping spot warm and cozy.</string>
+
+        <!-- Day 3 -->
+        <string name="day3_title">Cook Breakfast Over the Campfire</string>
+        <string name="day3_desc">Light your campfire coals and fry eggs and crispy potatoes in a cast iron skillet. Enjoy a warm cup of coffee outside in the crisp morning breeze.</string>
+
+        <!-- Day 4 -->
+        <string name="day4_title">Discover a Hidden Forest Stream</string>
+        <string name="day4_desc">Wander along a small stream to find mossy boulders and miniature waterfalls. Sit on a stone for five minutes and listen to the relaxing sound of flowing water.</string>
+
+        <!-- Day 5 -->
+        <string name="day5_title">A Quiet 15-Minute Forest Wander</string>
+        <string name="day5_desc">Pick any trail fork without a map and wander purely by curiosity. Leave your phone in your pocket and observe the colors of the leaves and bird calls.</string>
+
+        <!-- Day 6 -->
+        <string name="day6_title">Pack Your Daypack Lightly</string>
+        <string name="day6_desc">Empty your hiking backpack and keep only the essentials: water bottle, light rain jacket, trail snacks, and a pocket compass. A light pack makes walking effortless.</string>
+
+        <!-- Day 7 -->
+        <string name="day7_title">Sunset Over the Mountain Ridge</string>
+        <string name="day7_desc">Hike up to the highest hill or ridge near you before dusk. Watch the golden sky turn fiery orange and purple as the sun sets over the horizon.</string>
+
+        <!-- Day 8 -->
+        <string name="day8_title">Learn Natural Fire Tinder</string>
+        <string name="day8_desc">Collect dry pine needles, dry pinecones, and thin dead birch bark. Notice how quickly dry natural pine resin catches a spark for a safe campfire.</string>
+
+        <!-- Day 9 -->
+        <string name="day9_title">Find the Oldest Tree in the Woods</string>
+        <string name="day9_desc">Search for a giant tree with deep gnarled bark and sprawling branches. Touch the rough trunk and look straight up into the crown of leaves.</string>
+
+        <!-- Day 10 -->
+        <string name="day10_title">Navigate with a Compass</string>
+        <string name="day10_desc">Hold a magnetic compass flat in your palm. Find North, look at distant landmarks, and practice walking along a straight bearing without looking at GPS.</string>
+
+        <!-- Day 11 -->
+        <string name="day11_title">Hang a Hammock Between Two Pines</string>
+        <string name="day11_desc">Find two sturdy trees about 12 feet apart. Hang your hammock at a gentle 30-degree angle and enjoy a peaceful outdoor nap under the rustling leaves.</string>
+
+        <!-- Day 12 -->
+        <string name="day12_title">Roast Golden Campfire Marshmallows</string>
+        <string name="day12_desc">Sharpen a clean stick and roast a marshmallow over glowing embers. Turn it slowly until it turns golden-brown and gooey inside for the perfect s\'more.</string>
+
+        <!-- Day 13 -->
+        <string name="day13_title">Spot Wild Animal Tracks</string>
+        <string name="day13_desc">Look closely at soft mud and damp sand near the trail. Search for deer hoof prints, bird tracks, and small paw prints left behind by forest animals.</string>
+
+        <!-- Day 14 -->
+        <string name="day14_title">Mid-Challenge 3-Mile Hike</string>
+        <string name="day14_desc">You are nearly halfway through your 30-day journey! Celebrate by taking on a longer scenic 3-mile trail loop. Bring plenty of water and a snack.</string>
+
+        <!-- Day 15 -->
+        <string name="day15_title">Stargaze Under a Dark Night Sky</string>
+        <string name="day15_desc">Step outside away from city streetlights after dark. Lie on a blanket and look for the Big Dipper, the North Star, and shooting stars in the night sky.</string>
+
+        <!-- Day 16 -->
+        <string name="day16_title">Warm Camp Stew in One Pot</string>
+        <string name="day16_desc">Cook a steaming pot of beans, chopped potatoes, and vegetables over your camp stove. Food always tastes ten times better when eaten out in nature.</string>
+
+        <!-- Day 17 -->
+        <string name="day17_title">Discover Wildflowers and Ferns</string>
+        <string name="day17_desc">Search for delicate blooming wildflowers and wild ferns growing in shady clearings. Take photos of their colors and leave them undisturbed for bees.</string>
+
+        <!-- Day 18 -->
+        <string name="day18_title">Walk Barefoot on Soft Grass</string>
+        <string name="day18_desc">Take off your hiking boots and walk barefoot on clean soft grass, moss, or smooth sand. Feel the cool earth beneath your feet and relax your body.</string>
+
+        <!-- Day 19 -->
+        <string name="day19_title">Practice Three Essential Camp Knots</string>
+        <string name="day19_desc">Take a piece of rope or cord and practice tying a Square Knot, a Bowline loop, and a Taut-Line hitch for securing tent guy lines.</string>
+
+        <!-- Day 20 -->
+        <string name="day20_title">Climb a Steep Rocky Hill</string>
+        <string name="day20_desc">Challenge yourself with a hill climb. Take short, steady steps, breathe in rhythm with your feet, and enjoy the wide panoramic view from the summit.</string>
+
+        <!-- Day 21 -->
+        <string name="day21_title">Brew Fresh Herbal Pine Tea</string>
+        <string name="day21_desc">Harvest a small pinch of fresh green white-pine needles. Steep them in hot boiled water for 8 minutes and add a spoonful of honey for a citrusy camp drink.</string>
+
+        <!-- Day 22 -->
+        <string name="day22_title">Explore a Cave or Rock Crevice</string>
+        <string name="day22_desc">Find large granite boulders or rock outcrops. Notice how cool the air feels inside stone alcoves and explore the ancient geological layers.</string>
+
+        <!-- Day 23 -->
+        <string name="day23_title">Wander Through Morning Mist</string>
+        <string name="day23_desc">Put on a light rain jacket and walk when there is morning fog or mist. The forest becomes peaceful, quiet, and smells wonderfully like damp earth and pine.</string>
+
+        <!-- Day 24 -->
+        <string name="day24_title">Set Up a Simple Tarp Shelter</string>
+        <string name="day24_desc">Tie a ridgeline rope between two trees and drape a lightweight tarp over it. Stake down the corners to build a quick emergency rain shelter.</string>
+
+        <!-- Day 25 -->
+        <string name="day25_title">Nature Sketch with Campfire Charcoal</string>
+        <string name="day25_desc">Pick up a piece of cold charcoal from an old fire pit. Use it to sketch a pine cone, mountain outline, or leaf on a sheet of paper.</string>
+
+        <!-- Day 26 -->
+        <string name="day26_title">Count Your Walking Paces</string>
+        <string name="day26_desc">Measure how many natural double-steps you take to cover 100 meters. Knowing your pace count lets you easily estimate distance walked on any trail.</string>
+
+        <!-- Day 27 -->
+        <string name="day27_title">Campfire Cinnamon Sliced Apples</string>
+        <string name="day27_desc">Slice two apples, sprinkle with brown sugar and cinnamon, wrap in foil, and place near the warm campfire embers for 15 minutes for a delicious treat.</string>
+
+        <!-- Day 28 -->
+        <string name="day28_title">Leave No Trace Trail Cleanup</string>
+        <string name="day28_desc">Carry a small bag and gloves on your walk. Pick up any litter or wrappers you see on the trail, leaving the wilderness cleaner and more beautiful than before.</string>
+
+        <!-- Day 29 -->
+        <string name="day29_title">Quiet Dusk Watch</string>
+        <string name="day29_desc">Sit quietly at dusk for 20 minutes as daylight fades. Listen to the daylight birds quiet down and nocturnal creatures like crickets and owls awaken.</string>
+
+        <!-- Day 30 -->
+        <string name="day30_title">Final Summit and Adventure Completed</string>
+        <string name="day30_desc">Congratulations! You have completed all 30 days of hiking, wandering, discovering, and camping. Celebrate with a summit hike and look back on all your adventures!</string>
+    </resources>
